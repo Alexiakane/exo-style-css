@@ -1,0 +1,69 @@
+
+.rouge {
+    background-color: rgb(211, 75, 75);
+    height: 50px;
+    margin: 2px;
+}
+.jaune {
+    background-color: rgb(227, 230, 108);
+    height: 150px;
+    margin: 2px;
+}
+.div1 {
+    height: 500px;
+    display: flex;
+}
+.bleu {
+    background-color: skyblue;
+    height: 500px;
+    width: 50%;
+    margin: 2px;
+ }
+.div2 {
+    height: 500px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.vert {
+    background-color: greenyellow;
+    height: 250px;
+    margin: 2px;
+}
+.div3 {
+    height: 250px;
+    display: flex;
+}
+.orange {
+    background-color: orange;
+    height: 250px;
+    width: 33%;
+    margin: 2px;
+}
+.div4 {
+    height: 250px;
+    width: 77%;
+    display: flex;
+    flex-direction: column;
+}
+.canard {
+    background-color: royalblue;
+    height: 125px;
+    margin: 2px;
+}
+.div5 {
+    height: 125px;
+    display: flex;
+}
+.creme {
+    background-color: beige;
+    height: 125px;
+    width: 50%;
+    margin: 2px;
+}
+.noir {
+    background-color: black;
+    height: 125px;
+    width: 50%;
+    margin: 2px;
+}
